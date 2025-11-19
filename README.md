@@ -1,2 +1,2 @@
 # taskline
-A simple terminal-base tas manager written in C
+A simple terminal-base task manager written in C
