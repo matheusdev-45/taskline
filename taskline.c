@@ -1,19 +1,3 @@
-/*
- Taskline 1.0 - C version (uses cJSON)
- - Storage: ./tasks.json
- - Requires cJSON.c and cJSON.h in same folder
- - Compile: gcc taskline.c cJSON.c -o taskline
- - Usage examples:
-     ./taskline new Work
-     ./taskline add Work Finish report today
-     ./taskline ls Work
-     ./taskline lists
-     ./taskline rm Work 2
-     ./taskline del Work
-     ./taskline help
-     ./taskline about en
-*/
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
